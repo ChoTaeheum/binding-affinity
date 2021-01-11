@@ -5,4 +5,4 @@
 ![BindingAffinity_scheme](https://user-images.githubusercontent.com/77091029/104141447-35888180-53fa-11eb-8ddd-0912517b9e55.png)
 
 * result
-# 알고리즘 scheme
+![BindingAffinity_results](https://user-images.githubusercontent.com/77091029/104141650-2d7d1180-53fb-11eb-8a8e-716e7a75a5d7.png)
